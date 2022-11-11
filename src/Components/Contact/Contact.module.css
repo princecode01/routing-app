@@ -1,0 +1,63 @@
+.contact {
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+}
+
+.head {
+    color: #2c3e50;
+    font-size: 3rem;
+    line-height: 2.5rem;
+    font-weight: 700;
+}
+
+.dividerCustom {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dividerCustomLine {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #2c3e50 !important;
+    border-radius: 1rem;
+    border-color: #2c3e50 !important;
+    margin: 1rem;
+}
+
+.dividerCustomIcon {
+    color: #2c3e50 !important;
+    font-size: 2rem;
+}
+
+.faStar {
+    width: 1.125em;
+    vertical-align: -.1em;
+    height: 1em;
+    display: inline-block;
+}
+
+.input{
+    position: relative;
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.name{
+    font-size: 1.5em !important;
+    position: relative;
+    z-index: 1;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    resize: none;
+    border: none !important;
+    border-radius: 0 !important;
+    background: none;
+    box-shadow: none !important;
+}
+
+

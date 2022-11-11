@@ -1,0 +1,40 @@
+.about{
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+    background-color: #1abc9c;
+}
+
+.head{
+    color: #fff;
+    font-size: 3rem;
+    line-height: 2.5rem;
+    font-weight: 700;
+}
+
+.dividerCustom {
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dividerCustomLine {
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #fff !important;
+    border-radius: 1rem;
+    border-color: #fff !important;
+    margin: 1rem;
+}
+.dividerCustomIcon {
+    color: #fff !important;
+    font-size: 2rem;
+}
+.faStar{
+    width: 1.125em;
+    vertical-align: -.1em;
+    height: 1em;
+    display: inline-block;
+}
